@@ -1,0 +1,36 @@
+[33mcommit 11b93db1ec71ad05e7872791f5762501b76c9781[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mrefs/heads/add_classics[m[33m)[m
+Author: Abraham <eyobsmart3@gmail.com>
+Date:   Tue Sep 8 23:00:15 2026 +0300
+
+    D: add classics.csv file
+
+[33mcommit f130992106c4dca115d221bda534edebdbe7abfa[m[33m ([m[1;32mrefs/heads/main[m[33m)[m
+Merge: 7f4312e 8d72be5
+Author: Abraham <eyobsmart3@gmail.com>
+Date:   Tue Sep 8 22:35:05 2026 +0300
+
+    Merge branch 'temp-work'
+
+[33mcommit 8d72be52c7fc318d7f1fb502207c7a9f46ad69e8[m
+Author: Abraham <eyobsmart3@gmail.com>
+Date:   Tue Sep 8 21:33:07 2026 +0300
+
+    C: add new direct and 2 files
+
+[33mcommit 9046e2a51f08ad7632c1112a5afffd30b3acfd78[m
+Author: Abraham <eyobsmart3@gmail.com>
+Date:   Mon Sep 7 23:00:56 2026 +0300
+
+    B: add titles
+
+[33mcommit 7f4312e6498d72c3065bdbea007c5868ac8d79e5[m
+Author: Abraham <eyobsmart3@gmail.com>
+Date:   Sun Sep 6 23:04:11 2026 +0300
+
+    g: add title.md file
+
+[33mcommit 9739a0a7ec07b3268e1c0f1db98cd9637dd7fac2[m
+Author: Abraham <eyobsmart3@gmail.com>
+Date:   Sun Sep 6 22:07:40 2026 +0300
+
+    A: add contents.md
